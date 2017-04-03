@@ -1,0 +1,40 @@
+/* YOUR CUSTOM STYLES */
+
+nav {
+    margin-bottom: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+
+
+#test {
+    float: right;
+/*    padding-top: 40px;*/
+    padding-left: 10px;
+    
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+.view {
+    margin-top: 20px;
+    max-height: 400px;
+}
+
+.icon-custom {
+    width: 20px;
+    margin: auto;
+}
+
+.container {
+    margin-top: 50px;
+}
